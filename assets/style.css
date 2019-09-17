@@ -1424,7 +1424,7 @@ footer a {
         transform: rotate(-90deg);
         transition: opacity .5s cubic-bezier(.785,.135,.15,.86),-webkit-transform .5s cubic-bezier(.785,.135,.15,.86);
         transition: transform .5s cubic-bezier(.785,.135,.15,.86),opacity .5s cubic-bezier(.785,.135,.15,.86);
-        transition: transform .5s cubic-bezier(.785,.135,.15,.86),opacity .5s cubic-bezier(.785,.135,.15,.86),-webkit-transform .5s cubic-bezier(.785,.135,.15,.86);
+        transition: transform 1.5s cubic-bezier(.785,.135,.15,.86),opacity 1.5s cubic-bezier(.785,.135,.15,.86),-webkit-transform 1.5s cubic-bezier(.785,.135,.15,.86);
         font-size: 18px;
         color: #4d60a5;
         white-space: nowrap

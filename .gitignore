@@ -18,3 +18,4 @@ xcuserdata
 # svn & cvs
 .svn
 CVS
+.vscode/*
